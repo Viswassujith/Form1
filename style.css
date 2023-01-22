@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.btn:hover
+{
+ 
+ background-color: rgb(131, 255, 255);
+
+}
